@@ -2,7 +2,7 @@ package lt.mykolas.demo;
 
 public class TestA {
 
-    public void sayHelloLt(){
+    public static void sayHelloLt(){
         System.out.println("Sveikas pasauli");
 
 
